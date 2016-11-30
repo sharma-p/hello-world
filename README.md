@@ -1,5 +1,6 @@
 # hello-world
 Beginner repository
 
-Hey there!
-I'm just exploring GitHub. Learnt making a new branch!
+Hello Sugar Labs!
+My name is Pranav Sharma. I'm a student.
+
